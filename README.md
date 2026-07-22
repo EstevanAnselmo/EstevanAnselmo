@@ -13,7 +13,7 @@ Desenvolvedor em formação | Estudante de ADS (UNIP)
 
 ---
 
-## 🎯 Metas de 2025
+## 🎯 Metas de 2026
 - 🔎 Aprimorar minhas habilidades em programação e segurança da informação  
 - 🚀 Contribuir em projetos open-source  
 - 🌍 Expandir meu aprendizado em idiomas e tecnologia  
