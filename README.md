@@ -8,8 +8,10 @@ Desenvolvedor em formação | Estudante de ADS (UNIP)
 ## 📌 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💻 Interesse em Python, Desenvolvimento Web e Cibersegurança  
-- 🌍 Idiomas: Inglês (avançado), aprendendo Alemão, Francês e Russo  
-- 📧 Contato: estevananselmodasilva583@gmail.com  
+- 🌍 Idiomas: Inglês (avançado), aprendendo Russo, Francês e Espanhol  
+- 📧 Contato: estevan.anselmo01@gmail.com
+- 📫 LinkedIn:
+www.linkedin.com/in/estevananselmo
 
 ---
 
